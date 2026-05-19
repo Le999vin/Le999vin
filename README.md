@@ -1,108 +1,110 @@
+<div align="center">
 
-  <div align="center">
+```
+██╗     ███████╗██╗   ██╗██╗███╗   ██╗
+██║     ██╔════╝██║   ██║██║████╗  ██║
+██║     █████╗  ██║   ██║██║██╔██╗ ██║
+██║     ██╔══╝  ╚██╗ ██╔╝██║██║╚██╗██║
+███████╗███████╗ ╚████╔╝ ██║██║ ╚████║
+╚══════╝╚══════╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝
+```
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=6E57F7&center=true&vCenter=true&width=500&lines=Medizin-Informatiker+%40+Z%C3%BCrich;Building+clean+fullstack+systems;Healthcare+%C3%97+Software+%C3%97+AI" alt="Typing SVG" />
 
-  ██╗     ███████╗██╗   ██╗██╗███╗   ██╗
-  ██║     ██╔════╝██║   ██║██║████╗  ██║
-  ██║     █████╗  ██║   ██║██║██╔██╗ ██║
-  ██║     ██╔══╝  ╚██╗ ██╔╝██║██║╚██╗██║
-  ███████╗███████╗ ╚████╔╝ ██║██║ ╚████║
-  ╚══════╝╚══════╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝
+</div>
 
-  </div>
+<br/>
 
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=10
-  00&color=6E57F7&center=true&vCenter=true&width=500&lines=Medizin-Informatiker+%40+Z%C3%BCrich;Bui
-  lding+clean+fullstack+systems;Healthcare+%C3%97+Software+%C3%97+AI" alt="Typing SVG" />
-  </div>
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  levin@zurich:~$ whoami                                         │
+│  > fullstack dev · medizin-informatik apprentice                │
+│  > zürich, switzerland 🇨🇭                                      │
+│  > building at the intersection of healthcare & software        │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-  <br/>
+<br/>
 
+## ◈ Stack
 
-  ┌─────────────────────────────────────────────────────────────────┐
-  │  levin@zurich:~$ whoami                                         │
-  │  > fullstack dev · medizin-informatik apprentice                │
-  │  > zürich, switzerland 🇨🇭                                      │
-  │  > building at the intersection of healthcare & software        │
-  └─────────────────────────────────────────────────────────────────┘
+<div align="center">
 
-  <br/>
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 
-  ## ◈ Stack
+</div>
 
-  <div align="center">
+<br/>
 
-  ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAF
-  B)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&
-  logoColor=3178C6)
-  ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=37
-  76AB)
-  ![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFF
-  F)
-  ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoCol
-  or=FFFFFF)
-  ![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&log
-  oColor=38BDF8)
-  ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-  ![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF)
-  ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-  ![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-  ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+## ◈ Projects
 
-  </div>
+<table>
+<tr>
+<td width="50%">
 
-  <br/>
+**🌍 AroundTheWorld**
 
-  ## ◈ Projects
+Global travel atlas — interactive maps, POIs, live weather, geocoding, and an embedded AI assistant.
 
-  <table>
-  <tr>
-  <td width="50%">
+`React` `TypeScript` `Flask` `Maps API`
 
-  **🌍 AroundTheWorld**
-  Global travel atlas — interactive maps, POIs, live weather, geocoding, and an embedded AI assistant.
-  `React` `TypeScript` `Flask` `Maps API`
+</td>
+<td width="50%">
 
-  </td>
-  <td width="50%">
+**🏝️ Dynamic Island**
 
-  **🏝️  Dynamic Island**
-  macOS desktop app replicating iOS Dynamic Island — live activities, privacy indicators, native feel.
-  `Tauri` `React` `Rust`
+macOS desktop app replicating iOS Dynamic Island — live activities, privacy indicators, native feel.
 
-  </td>
-  </tr>
-  <tr>
-  <td width="50%">
+`Tauri` `React` `Rust`
 
-  **🧠 DB-Viewer**
-  Secure internal database viewer with session handling, structured errors, and a clean query UI.
-  `Python` `Flask` `Oracle` `PostgreSQL`
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-  </td>
-  <td width="50%">
+**🧠 DB-Viewer**
 
-  **⚕️  Medizin-Informatik**
-  Applying software patterns to clinical systems — where data integrity and UX actually matter.
-  `Healthcare IT` `Architecture` `Standards`
+Secure internal database viewer with session handling, structured errors, and a clean query UI.
 
-  </td>
-  </tr>
-  </table>
+`Python` `Flask` `Oracle` `PostgreSQL`
 
-  <br/>
+</td>
+<td width="50%">
 
-  ## ◈ Currently
+**⚕️ Medizin-Informatik**
 
-  ```text
-  [████████░░░░░░░░░░░░]  Software architecture patterns
-  [██████████████░░░░░░]  AI-assisted development workflows
-  [████████████░░░░░░░░]  Polished fullstack projects
-  [██████░░░░░░░░░░░░░░]  Professional documentation
+Applying software patterns to clinical systems — where data integrity and UX actually matter.
 
-  // find me → @Le999vin · levin.pamay@icloud.com
+`Healthcare IT` `Architecture` `Standards`
 
-  https://komarev.com/ghpvc/?username=Le999vin&color=6E57F7&style=flat-square&label=profile+views
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ◈ Currently
+
+```text
+[████████░░░░░░░░░░░░]  Software architecture patterns
+[██████████████░░░░░░]  AI-assisted development workflows
+[████████████░░░░░░░░]  Polished fullstack projects
+[██████░░░░░░░░░░░░░░]  Professional documentation
+```
+
+<br/>
+
+<div align="center">
+
+`// find me →` **[@Le999vin](https://github.com/Le999vin)** · `levin.pamay@icloud.com`
+
+![Profile views](https://komarev.com/ghpvc/?username=Le999vin&color=6E57F7&style=flat-square&label=profile+views)
+
+</div>
