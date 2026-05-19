@@ -1,49 +1,108 @@
-# Hi, I'm Levin 👋
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github)
+  <div align="center">
 
-> `// medizin-informatiker · zürich, switzerland`
 
-Building clean fullstack tools, AI-powered workflows, and modern developer systems.  
-Currently in training as a **Medizin-Informatiker** — where healthcare meets software.
+  ██╗     ███████╗██╗   ██╗██╗███╗   ██╗
+  ██║     ██╔════╝██║   ██║██║████╗  ██║
+  ██║     █████╗  ██║   ██║██║██╔██╗ ██║
+  ██║     ██╔══╝  ╚██╗ ██╔╝██║██║╚██╗██║
+  ███████╗███████╗ ╚████╔╝ ██║██║ ╚████║
+  ╚══════╝╚══════╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝
 
----
+  </div>
 
-## 🚀 Featured Projects
+  <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=10
+  00&color=6E57F7&center=true&vCenter=true&width=500&lines=Medizin-Informatiker+%40+Z%C3%BCrich;Bui
+  lding+clean+fullstack+systems;Healthcare+%C3%97+Software+%C3%97+AI" alt="Typing SVG" />
+  </div>
 
-| Project | Description |
-|---|---|
-| 🌍 **AroundTheWorld** | Global travel atlas with interactive maps, POIs, weather, geocoding & AI assistant |
-| 🧠 **DB-Viewer** | Secure internal database viewer — clean UI, session handling, structured errors |
-| 🏝️ **Dynamic Island** | Tauri + React macOS desktop app with live activities and native privacy indicators |
+  <br/>
 
----
 
-## 🛠️ Tech Stack
+  ┌─────────────────────────────────────────────────────────────────┐
+  │  levin@zurich:~$ whoami                                         │
+  │  > fullstack dev · medizin-informatik apprentice                │
+  │  > zürich, switzerland 🇨🇭                                      │
+  │  > building at the intersection of healthcare & software        │
+  └─────────────────────────────────────────────────────────────────┘
 
-```text
-Frontend   →  React · TypeScript · Next.js · Tailwind CSS
-Backend    →  Python · Flask · Node.js
-Databases  →  Oracle · PostgreSQL
-Tools      →  Git · Docker · VS Code · Figma
-AI / Auto  →  Claude · Codex · ChatGPT · local workflows
-```
+  <br/>
 
----
+  ## ◈ Stack
 
-## 📈 Current Focus
+  <div align="center">
 
-- 📐 Software architecture patterns  
-- 🧩 Polished fullstack projects  
-- 🤖 AI-assisted development  
-- 📝 Professional documentation  
+  ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAF
+  B)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&
+  logoColor=3178C6)
+  ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=37
+  76AB)
+  ![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFF
+  F)
+  ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoCol
+  or=FFFFFF)
+  ![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&log
+  oColor=38BDF8)
+  ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+  ![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+  ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+  ![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+  ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 
----
+  </div>
 
-## 📫 Contact
+  <br/>
 
-Feel free to connect with me here on GitHub — [@Le999vin](https://github.com/Le999vin)
+  ## ◈ Projects
+
+  <table>
+  <tr>
+  <td width="50%">
+
+  **🌍 AroundTheWorld**
+  Global travel atlas — interactive maps, POIs, live weather, geocoding, and an embedded AI assistant.
+  `React` `TypeScript` `Flask` `Maps API`
+
+  </td>
+  <td width="50%">
+
+  **🏝️  Dynamic Island**
+  macOS desktop app replicating iOS Dynamic Island — live activities, privacy indicators, native feel.
+  `Tauri` `React` `Rust`
+
+  </td>
+  </tr>
+  <tr>
+  <td width="50%">
+
+  **🧠 DB-Viewer**
+  Secure internal database viewer with session handling, structured errors, and a clean query UI.
+  `Python` `Flask` `Oracle` `PostgreSQL`
+
+  </td>
+  <td width="50%">
+
+  **⚕️  Medizin-Informatik**
+  Applying software patterns to clinical systems — where data integrity and UX actually matter.
+  `Healthcare IT` `Architecture` `Standards`
+
+  </td>
+  </tr>
+  </table>
+
+  <br/>
+
+  ## ◈ Currently
+
+  ```text
+  [████████░░░░░░░░░░░░]  Software architecture patterns
+  [██████████████░░░░░░]  AI-assisted development workflows
+  [████████████░░░░░░░░]  Polished fullstack projects
+  [██████░░░░░░░░░░░░░░]  Professional documentation
+
+  // find me → @Le999vin · levin.pamay@icloud.com
+
+  https://komarev.com/ghpvc/?username=Le999vin&color=6E57F7&style=flat-square&label=profile+views
