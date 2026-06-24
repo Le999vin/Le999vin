@@ -34,19 +34,19 @@
 <!-- ░░░ TERMINAL: whoami ░░░ -->
 ```ansi
 ┌─[1;35mlevin@zurich[0m───────────────────────────────────────────────┐
-│ [1;36m$ whoami[0m                                                     │
-│   [0;37m> fullstack dev · medizin-informatik apprentice[0m           │
+│ [1;36m$ whoami[0m                                                   │
+│   [0;37m> fullstack dev · medizin-informatik apprentice[0m          │
 │   [0;37m> zürich, switzerland 🇨🇭[0m                                 │
-│   [0;37m> building at the intersection of healthcare & software[0m   │
-│                                                                  │
-│ [1;36m$ cat ~/.philosophy[0m                                          │
-│   [0;37m> clean architecture > clever code[0m                         │
-│   [0;37m> data integrity is non-negotiable in healthcare[0m           │
-│   [0;37m> ship polished, document everything[0m                       │
-│                                                                  │
-│ [1;36m$ uptime[0m                                                      │
-│   [0;37m> caffeinated · learning · shipping[0m  [1;35m█[0m                 │
-└──────────────────────────────────────────────────────────────────┘
+│   [0;37m> building at the intersection of healthcare & software[0m  │
+│                                                                     │
+│ [1;36m$ cat ~/.philosophy[0m                                        │
+│   [0;37m> clean architecture > clever code[0m                       │
+│   [0;37m> data integrity is non-negotiable in healthcare[0m         │
+│   [0;37m> ship polished, document everything[0m                     │
+│                                                                     │
+│ [1;36m$ uptime[0m                                                   │
+│   [0;37m> caffeinated · learning · shipping[0m  [1;35m█[0m          │
+└──────────────────────────────────────────────────────────────────────
 ```
 
 <br/>
